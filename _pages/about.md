@@ -46,8 +46,8 @@ Before joining CMU, I obtained my B.S. in Computer Science and Mathematics from 
 ### Approximation Algorithms for Matroid-Intersection Coloring with Applications to Rota's Basis Conjecture
 
 - Jul 2027: ISMP 2027 Approximation and Online Algorithms session talk
+- Sep 2026: UIUC CS Theory Seminar
 - Sep 2026: Michigan CS Theory Seminar
-- ??? 2026: UIUC CS Theory Seminar
 - May 2026: Waterloo Graphs and Matroids Seminar
 - Apr 2026: CMU OR Seminar
 
