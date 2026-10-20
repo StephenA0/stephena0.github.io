@@ -51,6 +51,10 @@ body {
   margin: 0;
 }
 
+#conference-publications {
+  font-size: 1.25rem;
+}
+
 .publication-entry {
   margin: 0 0 0.8rem;
   padding: 0 0 0.8rem;
@@ -78,6 +82,7 @@ body {
 }
 
 .publication-details,
+.publication-venue,
 .publication-links {
   margin: 0 !important;
   font-size: 0.9rem !important;
@@ -86,6 +91,30 @@ body {
 
 .publication-links {
   margin-top: 0.12rem !important;
+}
+
+figure.personal-picture {
+  display: block;
+  width: 75% !important;
+  max-width: 75% !important;
+  margin: 1rem auto 0;
+
+  img {
+    display: block;
+    width: 100%;
+    margin: 0 auto 0.55rem;
+    border-radius: $border-radius;
+  }
+
+  figcaption {
+    width: 100%;
+    margin: 0;
+    color: inherit !important;
+    font-family: inherit !important;
+    font-size: 1em !important;
+    font-style: normal !important;
+    text-align: center !important;
+  }
 }
 
 @media (max-width: $small) {

@@ -1,12 +1,12 @@
 ---
 title: "No, Cake Cutting Really is a Piece of Cake"
 collection: publications
-category: preprints
+category: conferences
 # permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: Stephen Arndt, Benjamin Moseley, Sungjin Im, and Kirk Pruhs
+excerpt: Stephen Arndt, Sungjin Im, Benjamin Moseley, and Kirk Pruhs
 # date: 2024-02-17
-venue: 'arXiv preprint'
-publication_order: 2
+venue: 'SODA 2027'
+publication_order: 1
 link: 'https://arxiv.org/abs/2606.07238'
 # citation: 'Stephen Arndt, Benjamin Moseley, Kirk Pruhs, and Michael Zlatin'
 ---
