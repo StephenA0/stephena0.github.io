@@ -23,7 +23,7 @@ I obtained my M.S. in Algorithms, Combinatorics, and Optimization (ACO) from CMU
   <article class="publication-entry">
     <h4 class="publication-title"><a href="{{ post.link }}">{{ post.title }}</a></h4>
     <p class="publication-details">{{ post.excerpt }}.</p>
-    <p class="publication-venue"><i>{{ post.venue }}</i>.{% if post.award %} <strong>({{ post.award }})</strong>{% endif %}</p>
+    <p class="publication-venue"><i>{{ post.venue }}</i>.{% if post.award %} <strong class="publication-award">{{ post.award }}</strong>{% endif %}</p>
     {% if post.slidesurl %}<p class="publication-links"><a href="{{ post.slidesurl }}">Download Slides</a></p>{% endif %}
   </article>
 {% endfor %}
@@ -37,7 +37,7 @@ I obtained my M.S. in Algorithms, Combinatorics, and Optimization (ACO) from CMU
   <article class="publication-entry">
     <h4 class="publication-title"><a href="{{ post.link }}">{{ post.title }}</a></h4>
     <p class="publication-details">{{ post.excerpt }}.</p>
-    <p class="publication-venue"><i>{{ post.venue }}</i>.{% if post.award %} <strong>({{ post.award }})</strong>{% endif %}</p>
+    <p class="publication-venue"><i>{{ post.venue }}</i>.{% if post.award %} <strong class="publication-award">{{ post.award }}</strong>{% endif %}</p>
     {% if post.slidesurl %}<p class="publication-links"><a href="{{ post.slidesurl }}">Download Slides</a></p>{% endif %}
   </article>
 {% endfor %}
