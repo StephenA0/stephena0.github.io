@@ -72,6 +72,10 @@ I obtained my M.S. in Algorithms, Combinatorics, and Optimization (ACO) from CMU
 
 - Spring 2026: Final Grader, Optimization for Business (MBA)
 
+### Tutoring
+
+- Spring 2017–26: High School Math Tutor, Algebra I - Calculus II and Physics / AP Physics (500+ hours)
+
 ## Professional Activities
 
 ### CMU INFORMS
